@@ -2,7 +2,20 @@
     text-align: center;
     font-weight: 400;
     font-size: 40px;
+    margin-top: 50px;
 }
 .corpo{
     background-color: #E5FFFC;
+}
+.div{
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 60px;
+}
+.texto{
+    font-size: 55px;
+}
+.button{
+    max-width: 500%;
+    margin: auto;
 }
